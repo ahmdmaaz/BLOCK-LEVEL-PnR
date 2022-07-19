@@ -1,0 +1,2 @@
+# BLOCK-LEVEL-PnR-
+TECHNOLOGY NODE = 28nm  / 32nm
