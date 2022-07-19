@@ -1,1 +1,2 @@
-
+ln -s adress_where_file_is_present address_where_it_needs_to_be_copied
+# list of input files  
