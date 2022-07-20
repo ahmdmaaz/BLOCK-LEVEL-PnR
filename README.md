@@ -38,6 +38,6 @@ FLOW OF PnR
       1. UTILIZATION = .75
       2.GUARD BAND = 5.016um
    
-   10.MACROPLACEMENT........
+   10.MACROPLACEMENT........ 26 MAY 19:23
      
         
