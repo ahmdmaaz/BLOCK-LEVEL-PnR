@@ -7,3 +7,37 @@ FLOW OF PnR
   4.
   5.
   6.FLOORPLAN
+     1.CORE UTILIZATION =.7
+     2.ASPECT RATIO = 1
+     3.CORE OFFSET = 10
+     4.SITE DEFINATION = UNIT 
+     5.SITE ROW USE
+     6.
+  7.PORT PLACEMENT (USING ROUTING BLOCKAGE METHOD ALSO)
+     1.INPUT PORTS 
+        1.M5 M7 
+        2.SIDE 1
+        3.CORNER KEEPOUT = 100um
+        4.PIN SPACING TRACK = 5 
+        
+     2.OUTPUT PORTS
+        1.M5 M7
+        2.SIDE 3
+        3.PIN SPACING MIN TRACK = 5 um
+        4.CORNER KEEPOUT = 100um
+        
+     3.CLOCK PORTS
+        1.M4 M6
+        2.SIDE 2
+        3.PIN SPACING 5
+        4.CORNER KEEPOUT = 100um
+        
+   8.POWER DOMAIN CREATION
+          
+   9.VOLTAGE AREA CREATION
+      1. UTILIZATION = .75
+      2.GUARD BAND = 5.016um
+   
+   10.MACROPLACEMENT........
+     
+        
