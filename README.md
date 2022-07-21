@@ -52,7 +52,11 @@ FLOW OF PnR
 
    15.PLACEMENT
    
-   16.
+   16.CLOCK TREE SYNTHESIS ....... day 24 line 158
+      1.M4 & M5
+      
+      
+   17.  
       
    
      
